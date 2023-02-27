@@ -1,0 +1,11 @@
+{
+  "name": "sxon",
+  "version": "0.0.0",
+  "description": "Object notation with symbolic expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "derinsh",
+  "license": "ISC"
+}
